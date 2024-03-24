@@ -2,6 +2,8 @@
 
 ![Banner1](./Resources/theme2/android-chrome-512x512.png)
 
+
+
 *Development Version March 2024*
 
 ## Description
@@ -41,7 +43,8 @@ Please refer to the [Installation Guide](./Documentation/InstallationGuide.md) f
 - [FAQ](./FAQ.md)
 - [Support](./Support.md)
 ## Links
-
+This Development version of WatsonxVR , inspired from the UEHttpGPT version by Lucas Vilas-Bôas.
+* [Unreal Engine Plugin](https://github.com/lucoiso/UEHttpGPT)
 * [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/)
 * [Unreal Engine Forum](https://forums.unrealengine.com)
 
