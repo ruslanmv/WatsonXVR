@@ -2,8 +2,6 @@
 
 ![Banner1](./Resources/theme2/android-chrome-512x512.png)
 
-
-
 *Development Version March 2024*
 
 ## Description
