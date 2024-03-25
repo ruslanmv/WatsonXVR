@@ -1,0 +1,65 @@
+{
+  "FileVersion": 3,
+  "Version": 22,
+  "VersionName": "1.5.9",
+  "FriendlyName": "App - GPT Integration",
+  "Description": "App is an Unreal Engine plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. App also includes new Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.",
+  "Category": "Game Features",
+  "CreatedBy": "Ruslan Magana",
+  "CreatedByURL": "https://github.com/ruslanmv",
+  "DocsURL": "https://github.com/ruslanmv/UEApp/wiki",
+  "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/433c180835184aeca0172680a69497ee",
+  "SupportURL": "https://github.com/ruslanmv/UEApp/issues",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AppChatModule",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac",
+        "Linux",
+        "IOS",
+        "Android"
+      ]
+    },
+    {
+      "Name": "AppImageModule",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac",
+        "Linux",
+        "IOS",
+        "Android"
+      ]
+    },
+    {
+      "Name": "AppCommonModule",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac",
+        "Linux",
+        "IOS",
+        "Android"
+      ]
+    },
+    {
+      "Name": "AppEditorModule",
+      "Type": "Editor",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac",
+        "Linux"
+      ],
+      "LoadingPhase": "Default"
+    }
+  ]
+}
