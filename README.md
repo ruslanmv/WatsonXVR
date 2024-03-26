@@ -1,6 +1,6 @@
 # Unreal Engine Plugin: WatsonxVR
 
-![Banner1](./Resources/theme2/android-chrome-512x512.png)
+![Banner1](./Resources/theme/android-chrome-512x512.png)
 
 *Development Version March 2024*
 
@@ -34,12 +34,7 @@ The WatsonxVR Image Generator Editor Tool allows users to generate high-quality 
 
 Please refer to the [Installation Guide](./Documentation/InstallationGuide.md) for detailed instructions on how to install and use the WatsonxVR plugin in your Unreal Engine project.
 
-## Resources
 
-- [Documentation](./Documentation)
-- [Examples](./Examples)
-- [FAQ](./FAQ.md)
-- [Support](./Support.md)
 ## Links
 This Development version of WatsonxVR , inspired from the UEHttpGPT version by Lucas Vilas-Bôas.
 * [Unreal Engine Plugin](https://github.com/lucoiso/UEHttpGPT)

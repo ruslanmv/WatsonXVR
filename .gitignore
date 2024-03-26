@@ -17,3 +17,5 @@ enc_temp_folder
 *.ipch
 *.TMP
 logos/
+references/
+backup/
