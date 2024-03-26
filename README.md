@@ -32,7 +32,7 @@ The WatsonxVR Image Generator Editor Tool allows users to generate high-quality 
 
 ## Installation and Usage
 
-Please refer to the [Installation Guide](./Documentation/InstallationGuide.md) for detailed instructions on how to install and use the WatsonxVR plugin in your Unreal Engine project.
+Please refer to the [Installation Guide](./Documentation/README.md) for detailed instructions on how to install and use the WatsonxVR plugin in your Unreal Engine project.
 
 
 ## Links
